@@ -12,6 +12,8 @@ tqdm = "^4.66.2"
 matplotlib = "^3.8.4"
 numpy = "^1.26.4"
 ipykernel = "^6.29.4"
+jdc = "^0.0.9"
+scipy = "^1.13.0"
 
 
 [build-system]
